@@ -1,0 +1,3 @@
+- docker compose up -d --build
+- go run main.go(serverコンテナに入って)
+- docker compose down
